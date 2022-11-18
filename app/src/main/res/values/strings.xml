@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jokenpô</string>
+    <string name="text_welcome">Bem-vindo ao Jokenpô</string>
+    <string name="textstart">Iniciar</string>
+    <string name="reniciar">Reniciar</string>
+    <string name="jogador_1">Jogador 1</string>
+    <string name="resultado">Resultado</string>
+    <string name="selecionar_jogada">Selecionar jogada</string>
+    <string name="winplayer">O jogador xxx ganhou</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="available_plays_arrays">
+        <item>Papel</item>
+        <item>Tesoura</item>
+        <item>Pedra</item>
+    </string-array>
+</resources>
